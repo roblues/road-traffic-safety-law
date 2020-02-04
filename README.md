@@ -1,5 +1,5 @@
 
-><span aligin="center"> 中华人民共和国主席令</span>
+<div aligin="center"> <h1>中华人民共和国主席令</h1></div>
 >
 > 第八号
 >
